@@ -48,7 +48,6 @@ elif type_brute_force  == 2:
     dict_brute_force()
 elif type_brute_force  == 3:
     comb_brute_force()
-
 else:
     print("Не верный аргумент")
     exit(0)
